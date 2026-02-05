@@ -20,9 +20,10 @@
 
 <h2>🔥 Kiln Live Temperature</h2>
 
-<img src="plot.png" alt="Kiln Plot">
-
-<p>Auto refresh every 30 seconds</p>
+<img id="plot" src="plot.png" alt="Kiln Plot">
+<script>
+  document.getElementById("plot").src = "plot.png?ts=" + Date.now();
+</script>Auto refresh every 30 seconds</p>
 
 </body>
 </html>
