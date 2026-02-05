@@ -1,17 +1,28 @@
+<!DOCTYPE html>
 <html>
 <head>
-<title>Kiln Live</title>
-<meta http-equiv="refresh" content="10">
+    <title>Kiln Live</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="refresh" content="30">
+    <style>
+        body {
+            font-family: sans-serif;
+            text-align: center;
+            padding: 10px;
+        }
+        img {
+            max-width: 95%;
+        }
+    </style>
 </head>
 
 <body>
-<h2>Kiln Live Status</h2>
 
-<p>Temperature plot:</p>
-<img src="plot.png" width="600">
+<h2>🔥 Kiln Live Temperature</h2>
 
-<p>Status JSON:</p>
-<a href="status.json">View status.json</a>
+<img src="plot.png" alt="Kiln Plot">
+
+<p>Auto refresh every 30 seconds</p>
 
 </body>
 </html>
