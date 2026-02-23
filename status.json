@@ -1,7 +1,15 @@
 {
   "kiln": "kilnA",
-  "active": false,
-  "public": false,
+  "active": true,
+  "public": true,
+  "meta": {
+    "kiln": "kilnA",
+    "started_utc": "2026-02-23T23:50:21.328076+00:00",
+    "profile": "",
+    "public": true,
+    "firing_type": "",
+    "notes": ""
+  },
   "ok": false,
   "reason": "no_data"
 }
