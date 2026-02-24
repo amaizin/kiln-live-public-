@@ -7,11 +7,11 @@
     "started_utc": "2026-02-23T23:50:21.328076+00:00",
     "profile": "",
     "public": true,
-    "firing_type": "",
+    "firing_type": "glaze",
     "notes": ""
   },
   "ok": true,
-  "last_timestamp": "2026-02-24 16:08:52",
-  "last_temp_c": 710.0,
-  "elapsed_min": 157.58333333333334
+  "last_timestamp": "2026-02-24 16:09:57",
+  "last_temp_c": 714.0,
+  "elapsed_min": 158.66666666666666
 }
