@@ -8,7 +8,9 @@
     "profile": "",
     "public": true,
     "firing_type": "glaze",
-    "notes": ""
+    "notes": "",
+    "ended_utc": "2026-03-26T21:10:10.894825+00:00",
+    "end_reason": "auto_stop_max_duration"
   },
   "ok": true,
   "last_timestamp": "2026-02-24 20:51:56",
